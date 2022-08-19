@@ -1,3 +1,5 @@
 # angular_resumo
 
-Em construção...
+### Este repositório trata de conhecimentos gerais sobre Angular
+
+### Sumário:
