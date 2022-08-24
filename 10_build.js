@@ -7,7 +7,6 @@
         angular.json
             "aot": true,
 
-
     Fazendo build para produção
         ng build
         (ou apenas ng b)
