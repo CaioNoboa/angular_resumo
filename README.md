@@ -10,4 +10,6 @@
 - 5_primeiros_passos.js - criando um porojeto novo;
 - 6_componentes.js - estrutura de um componente e como criá-lo;
 - 7_decorator.js - sobre '@Decorators';
-- 8_data_binding.js - interpolation, property-binding, event-binding, two-way-binding.
+- 8_data_binding.js - interpolation, property-binding, event-binding, two-way-binding;
+- 9_debugando.js - maneiras de debugar a aplicação;
+- 10_build.js - build para produção.
