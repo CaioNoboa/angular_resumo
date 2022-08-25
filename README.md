@@ -12,4 +12,5 @@
 - 7_decorator.js - sobre '@Decorators';
 - 8_data_binding.js - interpolation, property-binding, event-binding, two-way-binding;
 - 9_debugando.js - maneiras de debugar a aplicação;
-- 10_build.js - build para produção.
+- 10_build.js - build para produção;
+- 11_promises_observables.js - promises vs observables.
